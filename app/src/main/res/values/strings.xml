@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Button_ex_1</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="zoom">ZOOM -</string>
+    <string name="zoomPlus">ZOOM +</string>
+    <string name="zoom_04">ZOOM=04</string>
+</resources>
